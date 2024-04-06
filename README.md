@@ -1,2 +1,2 @@
 # Discord.py-TTS-bot
-TTS bot for discord.py using vocalware.
+TTS bot for discord.py.
