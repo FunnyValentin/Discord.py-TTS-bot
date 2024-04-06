@@ -1,0 +1,67 @@
+English 1 Susan 1 F US
+English 1 Dave 2 M US
+English 1 Elizabeth 4 F UK
+English 1 Simon 5 M UK
+English 1 Catherine 6 F UK
+English 1 Allison 7 F US
+English 1 Steven 8 M US
+English 1 Alan 9 M Australian
+English 1 Grace 10 F Australian
+English 1 Veena 11 F Indian
+Spanish 2 Carmen 1 F Castilian
+Spanish 2 Juan 2 M Castilian
+Spanish 2 Francisca 3 F Chilean
+Spanish 2 Diego 4 M Argentine
+Spanish 2 Esperanza 5 F Mexican
+Spanish 2 Jorge 6 M Castilian
+Spanish 2 Carlos 7 M American
+Spanish 2 Soledad 8 F American
+Spanish 2 Leonor 9 F Castilian
+Spanish 2 Ximena 10 F American
+German 3 Stefan 2 M
+German 3 Katrin 3 F
+French 4 Bernard 2 M European
+French 4 Jolie 3 F European
+French 4 Florence 4 F European
+French 4 Charlotte 5 F Canadian
+French 4 Olivier 6 M Canadian
+Catalan 5 Montserrat 1 F
+Catalan 5 Jordi 2 M
+Catalan 5 Empar 3 F Valencian
+Portuguese 6 Amalia 2 F European
+Portuguese 6 Eusebio 3 M European
+Italian 7 Paola 1 F
+Italian 7 Silvana 2 F
+Italian 7 Valentina 3 F
+Italian 7 Luca 5 M
+Italian 7 Marcello 6 M
+Italian 7 Roberto 7 M
+Italian 7 Matteo 8 M
+Italian 7 Giulia 9 F
+Italian 7 Federica 10 F
+Greek 8 Afroditi 1 F
+Greek 8 Nikos 3 M
+Swedish 9 Annika 1 F
+Swedish 9 Sven 2 M
+Chinese 10 Linlin 1 F Mandarin
+Chinese 10 Lisheng 2 F Mandarin
+Dutch 11 Willem 1 M
+Dutch 11 Saskia 2 F
+Polish 14 Zosia 1 F
+Polish 14 Krzysztof 2 M
+Galician 15 Carmela 1 F
+Turkish 16 Kerem 1 M
+Turkish 16 Zeynep 2 F
+Turkish 16 Selin 3 F
+Danish 19 Frida 1 F
+Danish 19 Magnus 2 M
+Norwegian 20 Vilde 1 F
+Norwegian 20 Henrik 2 M
+Russian 21 Olga 1 F
+Russian 21 Dmitri 2 M
+Finnish 23 Milla 1 F
+Finnish 23 Marko 2 M
+Arabic 27 Tarik 1 M
+Arabic 27 Laila 2 F
+Romanian 30 Ioana 1 F
+Esperanto 31 Ludoviko 1 M

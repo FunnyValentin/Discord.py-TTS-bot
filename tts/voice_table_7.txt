@@ -1,0 +1,53 @@
+English 1 Olivia 1 F UK
+English 1 Oliver 2 M UK
+English 1 Matilda 3 F Australian
+English 1 Lakshmi 5 F Indian
+English 1 Prashant 6 M Indian
+English 1 Brenda 7 F US
+German 3 Hilda 1 F
+German 3 Heinz 2 M
+French 4 Beatrice 1 F
+French 4 Antoine 2 M
+French 4 Leonie 3 F Canadian
+French 4 Gaspard 4 M Canadian
+Portuguese 6 Ana 1 F Brasilian
+Portuguese 6 Leonor 3 F
+Portuguese 6 Tiago 4 M
+Italian 7 Bianca 1 F
+Italian 7 Alessandro 2 M
+Greek 8 Eleni 1 F
+Greek 8 Giorgos 2 M
+Swedish 9 Astrid 1 F
+Swedish 9 Gustav 2 M
+Chinese 10 Chia-ling 1 F Taiwanese
+Chinese 10 Chia-hao 2 M Taiwanese
+Chinese 10 Yan 3 F HK Cantonese
+Chinese 10 Chan 4 M HK Cantonese
+Dutch 11 Famke 1 F
+Dutch 11 Dirk 2 M
+Japanese 12 Himari 1 F
+Japanese 12 Kaito 2 M
+Polish 14 Danota 1 F
+Polish 14 Wojciech 2 M
+Turkish 16 Zehra 1 F
+Turkish 16 Eymen 2 M
+Czech 18 Pavla 1 F
+Danish 19 Dagny 1 F
+Danish 19 Erik 2 M
+Norwegian 20 Dagrun 1 F
+Norwegian 20 Lars 2 M
+Finnish 23 Sanna 1 F
+Hindi 24 Swathi 1 F
+Hindi 24 Karan 2 M
+Arabic 27 Amina 1 F
+Arabic 27 Jamal 2 M
+Indonesian 28 Putri 1 F
+Indonesian 28 Bintang 2 M
+Hungarian 29 Flora 1 F
+Hungarian 29 Laszlo 2 M **
+Filipino 32 Mayumi 1 F
+Filipino 32 Datu 2 M
+Slovak 37 Eliska 1 F
+Ukrainian 40 Vira 1 F
+Vietnamese 41 Nguyet 1 F
+Vietnamese 41 Phuong 2 M

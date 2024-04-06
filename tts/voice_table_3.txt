@@ -1,0 +1,48 @@
+English 1 Kate 1 F US
+English 1 Paul 2 M US
+English 1 Julie 3 F US
+English 1 Bridget 4 F UK
+English 1 Hugh 5 M UK
+English 1 Ashley 6 F US
+English 1 James 7 M US
+English 1 Beth 8 F US
+Spanish 2 Violeta 1 F Mexican
+Spanish 2 Francisco 2 M Mexican
+Spanish 2 Gloria 3 F Mexican
+Spanish 2 Lola 4 F Castilian
+Spanish 2 Manuel 5 M Castilian
+German 3 Lena 1 F
+German 3 Tim 2 M
+French 4 Chloe 1 F Canadian
+French 4 Leo 2 M Canadian
+French 4 Roxane 3 F
+French 4 Louis 4 M
+Portuguese 6 Helena 1 F Brazilian
+Portuguese 6 Rafael 2 M Brazilian
+Italian 7 Elisa 1 F
+Italian 7 Roberto 2 M
+Chinese 10 Lily 1 F Mandarin
+Chinese 10 Hui 3 F Mandarin
+Chinese 10 Liang 4 M Mandarin
+Chinese 10 Qiang 5 M Mandarin
+Chinese 10 Kaho 6 M Cantonese
+Chinese 10 Kayan 7 F Cantonese
+Chinese 10 Yafrang 8 F Taiwanese
+Japanese 12 Show 2 M
+Japanese 12 Misaki 3 F
+Japanese 12 Sayaka 4 F
+Japanese 12 Hikari 5 F
+Japanese 12 Haruka 6 F
+Japanese 12 Ryo 7 M
+Japanese 12 Takeru 8 M
+Korean 13 Yumi 1 F
+Korean 13 Junwoo 2 M
+Korean 13 Hyeryun 4 F
+Korean 13 Jimin 5 F
+Korean 13 Sena 6 F
+Korean 13 Dayoung 7 F
+Korean 13 Hyuna 8 F
+Korean 13 Yura 9 F
+Korean 13 Jihun 10 M
+Thai 26 Sarawut 1 M
+Thai 26 Somsi 2 F
